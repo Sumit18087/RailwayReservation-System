@@ -116,6 +116,20 @@ Password : admin123
 ```
 
 ---
+---
+
+## 📸 Screenshots
+
+### 🏠 Main Menu
+![Main Menu](./screenshots/main-menu.png)
+
+### 🔐 Admin Login & Add Train
+![Admin Panel](./screenshots/admin-panel.png)
+
+### 🚆 View Trains
+![View Trains](./screenshots/view-trains.png)
+
+---
 
 ## 👨‍💻 Author
-Built as a C++ OOP project for TCS NQT portfolio.
+Built as a C++ OOP project .
